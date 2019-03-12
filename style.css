@@ -1,0 +1,15 @@
+body {
+  background-color: lightseagreen;
+  font-family: "Helvetica", sans-serif;
+  color: pink;
+}
+
+h1 {
+  color: orange;
+  font-family: "Times New Roman", serif;
+}
+
+h2 {
+  color: gold;
+  font-family: "Helvetica";
+}
